@@ -1,5 +1,7 @@
 # Eğitim Amaçlı C# Keylogger Projesi
 
+VİDEO LİNKİ : https://youtu.be/jTVZzOzR96M
+
 ![Dil](https://img.shields.io/badge/Dil-C%23-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-.NET%20Framework-blue)
 ![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-orange)
